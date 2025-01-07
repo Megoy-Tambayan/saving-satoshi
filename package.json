@@ -31,7 +31,7 @@
     "monaco-editor": "^0.36.1",
     "monaco-editor-webpack-plugin": "^7.0.1",
     "negotiator": "^0.6.3",
-    "next": "^13.4.19",
+    "next": "^13.5.8",
     "next-transpile-modules": "^10.0.0",
     "nostr-hooks": "^1.8.0",
     "nostr-tools": "^1.14.2",
