@@ -27,7 +27,7 @@
     "framer-motion": "^11.3.27",
     "jotai": "^2.8.0",
     "jotai-effect": "^1.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "monaco-editor": "^0.36.1",
     "monaco-editor-webpack-plugin": "^7.0.1",
     "negotiator": "^0.6.3",
